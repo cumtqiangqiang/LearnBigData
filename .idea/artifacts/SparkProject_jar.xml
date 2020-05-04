@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SparkProject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SparkProject_jar</output-path>
+    <root id="archive" name="SparkProject.jar">
+      <element id="module-output" name="SparkProject" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mysql-connector-java-5.1.8-bin.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/fastutil-7.0.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/fastjson-1.2.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/kafka_2.10-0.8.2.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
